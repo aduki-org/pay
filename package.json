@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bcryptjs": "^3.0.0",
-    "bullmq": "^5.34.6",
+    "bullmq": "^5.76.5",
     "dotenv": "^16.4.7",
     "jsonwebtoken": "^9.0.2",
     "libsodium-wrappers": "^0.7.15",
